@@ -1,34 +1,44 @@
 {
 "users" : [
 {
-"name":"Angelina Jolie"
+"name":"Angelina Jolie",
+"info":"Born in Los Angeles, California, on June 4, 1975, Angelina Jolie starred in the HBO biopic Gia before earning a best supporting actress Academy Award for Girl, Interrupted. Jolie became one of Hollywood's marquee names, with starring roles in movies like Wanted, Mr. and Mrs. Smith, Salt and Changeling. She later had a huge international blockbuster with Disney's Maleficent, which spawned a sequel. Jolie also directed the films In the Land of Blood and Honey, Unbroken and By the Sea, in which she co-starred with then-husband Brad Pitt."
 },
 {
 "name":"Kate Hudson"
+"info":"Kate Hudson was born on April 19, 1979, in Los Angeles, California.In 1998, she appeared in the independent film Desert Blue. She was also a featured player in the ensemble cast of 200 Cigarettes. By the end of 2000 she had charmed her way into the hearts of fans and critics with her performance in Almost Famous. Some of her other films include You, Me and Dupree, Fools Gold and Bride Wars. In 2013 Hudson co-founded the fitness brand Fabletics."
 },
 {
 "name":"Catherine Zeta-Jones"
+"info":"Actress Catherine Zeta-Jones rose to fame through such films as The Mask of Zorro and Entrapment. Her roots in dance and musical theater led to her Academy Award-winning turn in the big-screen adaptation of Chicago, as well as a Tony Award for her performance in A Little Night Music. Zeta-Jones is also known for her marriage to American actor Michael Douglas, with whom she has two children."
 },
 {
 "name":"Pierce Brosnan"
+"info":"Pierce Brendan Brosnan OBE (born 16 May 1953) is an Irish-American actor, film producer, activist, and environmentalist. Born in Ireland, Brosnan became a naturalised American citizen in 2004.[2] After leaving comprehensive school at age 16, Brosnan began training in commercial illustration, then went on to train at the Drama Centre in London for three years. Following a stage acting career he rose to popularity in the television series Remington Steele (1982–1987), which blended the genres of romantic comedy, drama, and detective procedural. After the conclusion of Remington Steele, Brosnan appeared in films such as the Cold War spy film The Fourth Protocol (1987) and the comedy Mrs. Doubtfire (1993)."
 },
 {
 "name":"Robert Downey"
+"info":"Born in New York City on April 4, 1965, Robert Downey Jr. began acting as a young child. He made his first film appearances and was a cast member on Saturday Night Live in the 1980s, but his growing success was marred by years of struggles with drug abuse. Eventually turning his life around, he earned a resurgence of critical and popular acclaim, and is considered one of Hollywood's A-list actors."
 },
 {
 "name":"Tom Cruise"
+"info":"Tom Cruise is an American actor known for his roles in iconic films throughout the 1980s, 1990s and 2000s, as well as his high profile marriages to actresses Nicole Kidman and Katie Holmes. After developing an interest in acting during high school, he rocketed to fame with his star turns in Risky Business and Top Gun. Cruise later earned acclaim for his work in the hit film Jerry Maguire and the Mission: Impossible franchise."
 },
 {
 "name":"Vin Diesel"
+"info":"Born on July 18, 1967, Vin Diesel dropped out of college to create his first film, Multi-Facial, which was screened at the Cannes Film Festival in 1995. His following film, Strays, screened at Sundance. Diesel’s work attracted the attention of Steven Spielberg, who cast the actor in Saving Private Ryan (1998). He starred in several films before landing his career-defining role in The Fast and the Furious (2001). Additional films include The Chronicles of Riddick (2004), Guardians of the Galaxy (2014) and later chapters of the Furious franchise."
 },
 {
 "name":"Harrison Ford"
+"info":"Harrison Ford struggled for years as an actor before George Lucas cast him in 1973's American Graffiti. Ford then hit superstardom as Han Solo in the first three Star Wars films and as Indiana Jones in Raiders of the Lost Ark and its sequels, all huge successes. He has enjoyed leading roles in numerous Hollywood films such as Blade Runner, Witness, Working Girl, Patriot Games, The Fugitive and 42, among many others. Ford later revisited some of his most famous characters in Indiana Jones and the Kingdom of the Crystal Skull, Star Wars: The Force Awakens and Blade Runner 2049."
 },
 {
 "name":"Cate Blanchett"
+"info":"Cate Blanchett was born on May 14, 1969 in Melbourne, Victoria, Australia, to June (Gamble), an Australian teacher and property developer, and Robert DeWitt Blanchett, Jr., an American advertising executive, originally from Texas. She has an older brother and a younger sister. When she was ten years old, her 40-year-old father died of a sudden heart attack. Her mother never remarried, and her grandmother moved in to help her mother."
 },
 {
 "name":"Jamie Dornan"
+"info":"Initially beginning his career as a model in 2001, he appeared in campaigns for Hugo Boss, Dior Homme, and Calvin Klein. In addition, he performed in folk band Sons of Jim until 2008.He began acting in 2006, and earned international recognition for playing Sheriff Graham Humbert in the series Once Upon a Time (2011–2013) and serial killer Paul Spector in the crime drama series The Fall (2013–2016). He won the Irish Film and Television Award for Best Actor in Television and was nominated for a British Academy Television Award for Best Actor for the latter. In film, he has portrayed Axel von Fersen in Sofia Coppola's Marie Antoinette (2006), Christian Grey in the Fifty Shades franchise (2015–2018), and Jan Kubiš in Anthropoid (2016)."
 }
 ]
 }
